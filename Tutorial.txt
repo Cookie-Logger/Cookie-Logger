@@ -1,0 +1,4 @@
+1. Open CookieLogger.exe and follow configuration
+
+** ALSO **
+If you see any cmd.exe popup while opening CookieLogger.exe just close them, some of the packages I use open cmds idfk why, ill fix that next update
